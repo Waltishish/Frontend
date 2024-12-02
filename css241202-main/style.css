@@ -1,0 +1,15 @@
+p {
+    color:greenyellow;
+    background-color: black;
+    font-size: 40px;
+}
+
+.smallp{
+    color: black;
+    background-color: greenyellow;
+}
+
+a {
+    border-style: solid;
+    border-width: 0cap;
+}
